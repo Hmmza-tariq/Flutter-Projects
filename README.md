@@ -1,5 +1,32 @@
 ## Flutter projects
 
+<h2 align='center'>About this repository</h2>
+
+<p>
+  This repository contains a collection of Flutter projects that I have developed. Each project is a standalone application that showcases my skills and expertise in Flutter development.
+</p>
+
+ 
+<h2 align='center'>Table of Contents</h2>
+
+<ul>
+  <li><a href="#green-eats">Green Eats - Grocery App</a></li>
+  <li><a href="#roame">Roame - Tour Planning App</a></li>
+  <li><a href="#my-nust">My NUST - University App</a></li>
+  <li><a href="#wdyt">WDYT - Opinion Sharing App</a></li>
+  <li><a href="#mindful-life">Mindful Life - AI Chatbot App</a></li>
+  <li><a href="#movilar">Movilar - Movie App</a></li>
+  <li><a href="#water-flow">Water Flow - Water Level Monitoring App</a></li>
+  <li><a href="#ybs">Your Bridge School - Learning App</a></li>
+  <li><a href="#ez-build">Ez Build - Online Buying and Selling App</a></li>
+  <li><a href="#battlegrands">Battlegrands - Tournaments App</a></li>
+  <li><a href="#dog-alert">Dog Alert - Dog Tracking App</a></li>
+  <li><a href="#sleep">Sleep - Sound Therapy App</a></li>
+</ul>
+
+  
+
+
 <h2 align='center'>Green Eats</h2>
 
 Developed 'Green Eats', a full-stack grocery app with admin panel, available on multiple platforms including Play Store, App Store, and Website. Used Flutter for the front-end and Firebase for database, authentication, hosting, notification service, cloud functions and other cloud features
