@@ -43,24 +43,24 @@ Developed 'Green Eats', a full-stack grocery app with admin panel, available on 
   </a>
 </p>
 
-<img src="images\banners\green_eats_banner.png">
+<img src="images\green-eats\banner.jpg">
  
 ||||
 |--------------|--------------|--------------|
-| ![Screenshot 1](images/green-eats/1.png) | ![Screenshot 2](images/green-eats/2.png) | ![Screenshot 3](images/green-eats/3.png) | 
-| ![Screenshot 1](images/green-eats/4.png) | ![Screenshot 2](images/green-eats/5.png) | ![Screenshot 3](images/green-eats/6.png) |
+| ![Screenshot 1](images/green-eats/1.jpg) | ![Screenshot 2](images/green-eats/2.jpg) | ![Screenshot 3](images/green-eats/3.jpg) | 
+| ![Screenshot 1](images/green-eats/4.jpg) | ![Screenshot 2](images/green-eats/5.jpg) | ![Screenshot 3](images/green-eats/6.jpg) |
 
 <hr>
 <h2 align='center'>Roame</h2>
 
 Developed 'Roame', a full stack tour planning app with advance AI features. It connects with multiple social media platforms and let the user view see the trending places on that social media app. User can book a hotel / restaurant or a whole trip.
 
-<img src="images\banners\roame_banner.png">
+<img src="images\roame\banner.jpg">
 
 |                                         |                                         |                                         |
 | --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| ![Screenshot 1](<images/roame/(1).png>) | ![Screenshot 2](<images/roame/(2).png>) | ![Screenshot 3](<images/roame/(3).png>) |
-| ![Screenshot 1](<images/roame/(4).png>) | ![Screenshot 2](<images/roame/(5).png>) | ![Screenshot 3](<images/roame/(6).png>) |
+| ![Screenshot 1](<images/roame/1.jpg>) | ![Screenshot 2](<images/roame/2.jpg>) | ![Screenshot 3](<images/roame/3.jpg>) |
+| ![Screenshot 1](<images/roame/4.jpg>) | ![Screenshot 2](<images/roame/5.jpg>) | ![Screenshot 3](<images/roame/6.jpg>) |
 
 <hr>
 <h2 align='center'>My NUST</h2>
@@ -77,12 +77,12 @@ Developed 'My NUST' App (Play Store) for university students using Flutter. Adde
   </a>
 </p>
 
- <img src="images\banners\my_nust_banner.png">
+ <img src="images\my-nust\banner.jpg">
  
 ||||
 |--------------|--------------|--------------|
-| ![Screenshot 1](images/my-nust/1.png) | ![Screenshot 2](images/my-nust/2.png) | ![Screenshot 3](images/my-nust/3.png) | 
-| ![Screenshot 1](images/my-nust/4.png) | ![Screenshot 2](images/my-nust/5.png) | ![Screenshot 3](images/my-nust/6.png) |
+| ![Screenshot 1](images/my-nust/1.jpg) | ![Screenshot 2](images/my-nust/2.jpg) | ![Screenshot 3](images/my-nust/3.jpg) | 
+| ![Screenshot 1](images/my-nust/4.jpg) | ![Screenshot 2](images/my-nust/5.jpg) | ![Screenshot 3](images/my-nust/6.jpg) |
 
 <hr>
 <h2 align='center'>WDYT</h2>
@@ -99,7 +99,7 @@ Developed 'WDYT' App (Play Store & App Store). WDYT – The Emoji Battleground f
   </a>
 </p>
 
- <img src="images\banners\wdyt_banner.png">
+ <img src="images\wdyt\banner.jpg">
  
 ||||
 |--------------|--------------|--------------|
@@ -111,24 +111,24 @@ Developed 'WDYT' App (Play Store & App Store). WDYT – The Emoji Battleground f
 
 Developed 'Mindful Life', an AI chatbot app that guide its user to live a healthy life. It create a persona based on the performance of the user and display as a growable tree. User can select any of the AI doctor and have chat with him to any health related query.
 
- <img src="images\banners\mindful_banner.png">
+ <img src="images\mindful-life\banner.jpg">
 
 |                                                |                                                |                                                |
 | ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| ![Screenshot 1](<images/mindful-life/(1).png>) | ![Screenshot 2](<images/mindful-life/(2).png>) | ![Screenshot 3](<images/mindful-life/(3).png>) |
-| ![Screenshot 1](<images/mindful-life/(4).png>) | ![Screenshot 2](<images/mindful-life/(5).png>) | ![Screenshot 3](<images/mindful-life/(6).png>) |
+| ![Screenshot 1](<images/mindful-life/1.jpg>) | ![Screenshot 2](<images/mindful-life/2.jpg>) | ![Screenshot 3](<images/mindful-life/3.jpg>) |
+| ![Screenshot 1](<images/mindful-life/4.jpg>) | ![Screenshot 2](<images/mindful-life/5.jpg>) | ![Screenshot 3](<images/mindful-life/6.jpg>) |
 
 <hr>
 <h2 align='center'>Movilar</h2>
 
 Developed 'Movilar', a full stack movie app with SQLite for data caching to enable offline support. This app also has a MQTT client - publisher setup through which user can transfer message to anyone with the common topic.
 
- <img src="images\banners\movilar_banner.png">
+ <img src="images\movilar\banner.jpg">
 
 |                                           |                                           |                                           |
 | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| ![Screenshot 1](<images/movilar/(1).png>) | ![Screenshot 2](<images/movilar/(2).png>) | ![Screenshot 3](<images/movilar/(3).png>) |
-| ![Screenshot 1](<images/movilar/(4).png>) | ![Screenshot 2](<images/movilar/(5).png>) | ![Screenshot 3](<images/movilar/(6).png>) |
+| ![Screenshot 1](<images/movilar/1.jpg>) | ![Screenshot 2](<images/movilar/2.jpg>) | ![Screenshot 3](<images/movilar/3.jpg>) |
+| ![Screenshot 1](<images/movilar/4.jpg>) | ![Screenshot 2](<images/movilar/5.jpg>) | ![Screenshot 3](<images/movilar/6.jpg>) |
 
 <hr>
 <h2 align='center'>Water flow</h2>
@@ -141,12 +141,12 @@ Developed 'Water flow', a smart water level monitoring app that can monitor real
   </a>
 </p>
 
- <img src="images\banners\water_flow_banner.png">
+ <img src="images\water-flow\banner.jpg">
 
 |                                              |                                              |                                              |
 | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| ![Screenshot 1](<images/water-flow/(1).png>) | ![Screenshot 2](<images/water-flow/(2).png>) | ![Screenshot 3](<images/water-flow/(3).png>) |
-| ![Screenshot 1](<images/water-flow/(4).png>) | ![Screenshot 2](<images/water-flow/(5).png>) | ![Screenshot 3](<images/water-flow/(6).png>) |
+| ![Screenshot 1](<images/water-flow/1.jpg>) | ![Screenshot 2](<images/water-flow/2.jpg>) | ![Screenshot 3](<images/water-flow/3.jpg>) |
+| ![Screenshot 1](<images/water-flow/4.jpg>) | ![Screenshot 2](<images/water-flow/5.jpg>) | ![Screenshot 3](<images/water-flow/6.jpg>) |
 
 <hr>
 <h2 align='center'>Your Bridge School</h2>
@@ -159,12 +159,12 @@ Developed 'Your Bridge School', a learning app for students of YBS. It contains 
   </a>
 </p>
 
- <img src="images\banners\ybs_banner.png">
+ <img src="images\ybs\banner.jpg">
 
 |                                       |                                       |                                       |
 | ------------------------------------- | ------------------------------------- | ------------------------------------- |
-| ![Screenshot 1](<images/ybs/(1).png>) | ![Screenshot 2](<images/ybs/(2).png>) | ![Screenshot 3](<images/ybs/(3).png>) |
-| ![Screenshot 1](<images/ybs/(4).png>) | ![Screenshot 2](<images/ybs/(5).png>) | ![Screenshot 3](<images/ybs/(6).png>) |
+| ![Screenshot 1](<images/ybs/1.jpg>) | ![Screenshot 2](<images/ybs/2.jpg>) | ![Screenshot 3](<images/ybs/3.jpg>) |
+| ![Screenshot 1](<images/ybs/4.jpg>) | ![Screenshot 2](<images/ybs/5.jpg>) | ![Screenshot 3](<images/ybs/6.jpg>) |
 
 <hr>
 <h2 align='center'>Ez Build</h2>
@@ -179,8 +179,8 @@ Developed 'Ez Build', an online buying and selling app MVP.
 
 |                                            |                                            |                                            |
 | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
-| ![Screenshot 1](<images/ez-build/(1).png>) | ![Screenshot 2](<images/ez-build/(2).png>) | ![Screenshot 3](<images/ez-build/(3).png>) |
-| ![Screenshot 1](<images/ez-build/(4).png>) | ![Screenshot 2](<images/ez-build/(5).png>) | ![Screenshot 3](<images/ez-build/(6).png>) |
+| ![Screenshot 1](<images/ez-build/1.jpg>) | ![Screenshot 2](<images/ez-build/2.jpg>) | ![Screenshot 3](<images/ez-build/3.jpg>) |
+| ![Screenshot 1](<images/ez-build/4.jpg>) | ![Screenshot 2](<images/ez-build/5.jpg>) | ![Screenshot 3](<images/ez-build/6.jpg>) |
 
 <hr>
 <h2 align='center'>Battlegrands</h2>
@@ -192,7 +192,7 @@ Developed 'Battlegrands', a tournaments app, where users can challenge each othe
     <img src="https://img.shields.io/badge/Ez-Build-blue.svg">
   </a>
 </p> -->
- <img src="images\banners\Battlegrands.png">
+ <img src="images\battlegrands\banner.jpg">
 
 |                                            |                                            |                                            |
 | ------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
