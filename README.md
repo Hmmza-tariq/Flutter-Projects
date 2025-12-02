@@ -9,7 +9,7 @@
 This repository contains a collection of projects we have built across industries including e-commerce, fintech, travel, education, healthcare, IoT, and lifestyle.
 
 <p>
-  <a href="https://theHexagone.com"><img src="https://img.shields.io/badge/Visit%20Our%20theHexagone.com-000000?style=for-the-badge&logo=safari&logoColor=white"></a>
+  <a href="https://theHexagone.com"><img src="https://img.shields.io/badge/theHexagone.com-000000?style=for-the-badge&logo=safari&logoColor=white"></a>
 </p>
 
 </div>
@@ -40,7 +40,7 @@ This repository contains a collection of projects we have built across industrie
 
 ---
 
-<div style="border: 1px solid #e5e7eb; padding: 24px; margin: 16px 0;">
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
 
 <div align="center">
 
@@ -77,20 +77,14 @@ This repository contains a collection of projects we have built across industrie
 
 ### Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="images/-green-eats--grocery-app/1.jpg" width="200"></td>
-    <td align="center"><img src="images/-green-eats--grocery-app/2.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-green-eats--grocery-app/3.jpg" width="200"></td>
-    <td align="center"><img src="images/-green-eats--grocery-app/4.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-green-eats--grocery-app/5.jpg" width="200"></td>
-    <td align="center"><img src="images/-green-eats--grocery-app/6.jpg" width="200"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/-green-eats--grocery-app/1.jpg" width="200">
+  <img src="images/-green-eats--grocery-app/2.jpg" width="200">
+  <img src="images/-green-eats--grocery-app/3.jpg" width="200">
+  <img src="images/-green-eats--grocery-app/4.jpg" width="200">
+  <img src="images/-green-eats--grocery-app/5.jpg" width="200">
+  <img src="images/-green-eats--grocery-app/6.jpg" width="200">
+</p>
 
 </div>
 
@@ -128,20 +122,14 @@ This repository contains a collection of projects we have built across industrie
 
 ### Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="images/-roame--tour-planning-app/1.jpg" width="200"></td>
-    <td align="center"><img src="images/-roame--tour-planning-app/2.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-roame--tour-planning-app/3.jpg" width="200"></td>
-    <td align="center"><img src="images/-roame--tour-planning-app/4.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-roame--tour-planning-app/5.jpg" width="200"></td>
-    <td align="center"><img src="images/-roame--tour-planning-app/6.jpg" width="200"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/-roame--tour-planning-app/1.jpg" width="200">
+  <img src="images/-roame--tour-planning-app/2.jpg" width="200">
+  <img src="images/-roame--tour-planning-app/3.jpg" width="200">
+  <img src="images/-roame--tour-planning-app/4.jpg" width="200">
+  <img src="images/-roame--tour-planning-app/5.jpg" width="200">
+  <img src="images/-roame--tour-planning-app/6.jpg" width="200">
+</p>
 
 </div>
 
@@ -183,20 +171,14 @@ This repository contains a collection of projects we have built across industrie
 
 ### Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="images/-my-nust--university-app/1.jpg" width="200"></td>
-    <td align="center"><img src="images/-my-nust--university-app/2.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-my-nust--university-app/3.jpg" width="200"></td>
-    <td align="center"><img src="images/-my-nust--university-app/4.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-my-nust--university-app/5.jpg" width="200"></td>
-    <td align="center"><img src="images/-my-nust--university-app/6.jpg" width="200"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/-my-nust--university-app/1.jpg" width="200">
+  <img src="images/-my-nust--university-app/2.jpg" width="200">
+  <img src="images/-my-nust--university-app/3.jpg" width="200">
+  <img src="images/-my-nust--university-app/4.jpg" width="200">
+  <img src="images/-my-nust--university-app/5.jpg" width="200">
+  <img src="images/-my-nust--university-app/6.jpg" width="200">
+</p>
 
 </div>
 
@@ -238,20 +220,14 @@ This repository contains a collection of projects we have built across industrie
 
 ### Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="images/-watanpay--international-top-ups/1.jpg" width="200"></td>
-    <td align="center"><img src="images/-watanpay--international-top-ups/2.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-watanpay--international-top-ups/3.jpg" width="200"></td>
-    <td align="center"><img src="images/-watanpay--international-top-ups/4.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-watanpay--international-top-ups/5.jpg" width="200"></td>
-    <td align="center"><img src="images/-watanpay--international-top-ups/6.jpg" width="200"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/-watanpay--international-top-ups/1.jpg" width="200">
+  <img src="images/-watanpay--international-top-ups/2.jpg" width="200">
+  <img src="images/-watanpay--international-top-ups/3.jpg" width="200">
+  <img src="images/-watanpay--international-top-ups/4.jpg" width="200">
+  <img src="images/-watanpay--international-top-ups/5.jpg" width="200">
+  <img src="images/-watanpay--international-top-ups/6.jpg" width="200">
+</p>
 
 </div>
 
@@ -335,20 +311,14 @@ This repository contains a collection of projects we have built across industrie
 
 ### Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="images/-mindful-life--ai-chatbot-app/1.jpg" width="200"></td>
-    <td align="center"><img src="images/-mindful-life--ai-chatbot-app/2.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-mindful-life--ai-chatbot-app/3.jpg" width="200"></td>
-    <td align="center"><img src="images/-mindful-life--ai-chatbot-app/4.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-mindful-life--ai-chatbot-app/5.jpg" width="200"></td>
-    <td align="center"><img src="images/-mindful-life--ai-chatbot-app/6.jpg" width="200"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/-mindful-life--ai-chatbot-app/1.jpg" width="200">
+  <img src="images/-mindful-life--ai-chatbot-app/2.jpg" width="200">
+  <img src="images/-mindful-life--ai-chatbot-app/3.jpg" width="200">
+  <img src="images/-mindful-life--ai-chatbot-app/4.jpg" width="200">
+  <img src="images/-mindful-life--ai-chatbot-app/5.jpg" width="200">
+  <img src="images/-mindful-life--ai-chatbot-app/6.jpg" width="200">
+</p>
 
 </div>
 
@@ -384,20 +354,14 @@ This repository contains a collection of projects we have built across industrie
 
 ### Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="images/-movilar--movie--messaging-app/1.jpg" width="200"></td>
-    <td align="center"><img src="images/-movilar--movie--messaging-app/2.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-movilar--movie--messaging-app/3.jpg" width="200"></td>
-    <td align="center"><img src="images/-movilar--movie--messaging-app/4.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-movilar--movie--messaging-app/5.jpg" width="200"></td>
-    <td align="center"><img src="images/-movilar--movie--messaging-app/6.jpg" width="200"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/-movilar--movie--messaging-app/1.jpg" width="200">
+  <img src="images/-movilar--movie--messaging-app/2.jpg" width="200">
+  <img src="images/-movilar--movie--messaging-app/3.jpg" width="200">
+  <img src="images/-movilar--movie--messaging-app/4.jpg" width="200">
+  <img src="images/-movilar--movie--messaging-app/5.jpg" width="200">
+  <img src="images/-movilar--movie--messaging-app/6.jpg" width="200">
+</p>
 
 </div>
 
@@ -434,20 +398,14 @@ This repository contains a collection of projects we have built across industrie
 
 ### Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="images/-water-flow--iot-water-monitoring/1.jpg" width="200"></td>
-    <td align="center"><img src="images/-water-flow--iot-water-monitoring/2.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-water-flow--iot-water-monitoring/3.jpg" width="200"></td>
-    <td align="center"><img src="images/-water-flow--iot-water-monitoring/4.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-water-flow--iot-water-monitoring/5.jpg" width="200"></td>
-    <td align="center"><img src="images/-water-flow--iot-water-monitoring/6.jpg" width="200"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/-water-flow--iot-water-monitoring/1.jpg" width="200">
+  <img src="images/-water-flow--iot-water-monitoring/2.jpg" width="200">
+  <img src="images/-water-flow--iot-water-monitoring/3.jpg" width="200">
+  <img src="images/-water-flow--iot-water-monitoring/4.jpg" width="200">
+  <img src="images/-water-flow--iot-water-monitoring/5.jpg" width="200">
+  <img src="images/-water-flow--iot-water-monitoring/6.jpg" width="200">
+</p>
 
 </div>
 
@@ -488,20 +446,14 @@ This repository contains a collection of projects we have built across industrie
 
 ### Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="images/-your-bridge-school--learning-app/1.jpg" width="200"></td>
-    <td align="center"><img src="images/-your-bridge-school--learning-app/2.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-your-bridge-school--learning-app/3.jpg" width="200"></td>
-    <td align="center"><img src="images/-your-bridge-school--learning-app/4.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-your-bridge-school--learning-app/5.jpg" width="200"></td>
-    <td align="center"><img src="images/-your-bridge-school--learning-app/6.jpg" width="200"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/-your-bridge-school--learning-app/1.jpg" width="200">
+  <img src="images/-your-bridge-school--learning-app/2.jpg" width="200">
+  <img src="images/-your-bridge-school--learning-app/3.jpg" width="200">
+  <img src="images/-your-bridge-school--learning-app/4.jpg" width="200">
+  <img src="images/-your-bridge-school--learning-app/5.jpg" width="200">
+  <img src="images/-your-bridge-school--learning-app/6.jpg" width="200">
+</p>
 
 </div>
 
@@ -537,20 +489,14 @@ This repository contains a collection of projects we have built across industrie
 
 ### Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="images/-battlegrands--tournaments-app/1.jpg" width="200"></td>
-    <td align="center"><img src="images/-battlegrands--tournaments-app/2.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-battlegrands--tournaments-app/3.jpg" width="200"></td>
-    <td align="center"><img src="images/-battlegrands--tournaments-app/4.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-battlegrands--tournaments-app/5.jpg" width="200"></td>
-    <td align="center"><img src="images/-battlegrands--tournaments-app/6.jpg" width="200"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/-battlegrands--tournaments-app/1.jpg" width="200">
+  <img src="images/-battlegrands--tournaments-app/2.jpg" width="200">
+  <img src="images/-battlegrands--tournaments-app/3.jpg" width="200">
+  <img src="images/-battlegrands--tournaments-app/4.jpg" width="200">
+  <img src="images/-battlegrands--tournaments-app/5.jpg" width="200">
+  <img src="images/-battlegrands--tournaments-app/6.jpg" width="200">
+</p>
 
 </div>
 
@@ -586,20 +532,14 @@ This repository contains a collection of projects we have built across industrie
 
 ### Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="images/-ez-build--online-marketplace-mvp/1.jpg" width="200"></td>
-    <td align="center"><img src="images/-ez-build--online-marketplace-mvp/2.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-ez-build--online-marketplace-mvp/3.jpg" width="200"></td>
-    <td align="center"><img src="images/-ez-build--online-marketplace-mvp/4.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-ez-build--online-marketplace-mvp/5.jpg" width="200"></td>
-    <td align="center"><img src="images/-ez-build--online-marketplace-mvp/6.jpg" width="200"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/-ez-build--online-marketplace-mvp/1.jpg" width="200">
+  <img src="images/-ez-build--online-marketplace-mvp/2.jpg" width="200">
+  <img src="images/-ez-build--online-marketplace-mvp/3.jpg" width="200">
+  <img src="images/-ez-build--online-marketplace-mvp/4.jpg" width="200">
+  <img src="images/-ez-build--online-marketplace-mvp/5.jpg" width="200">
+  <img src="images/-ez-build--online-marketplace-mvp/6.jpg" width="200">
+</p>
 
 </div>
 
@@ -634,20 +574,14 @@ This repository contains a collection of projects we have built across industrie
 
 ### Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="images/-dog-alert--smart-pet-tracking/1.jpg" width="200"></td>
-    <td align="center"><img src="images/-dog-alert--smart-pet-tracking/2.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-dog-alert--smart-pet-tracking/3.jpg" width="200"></td>
-    <td align="center"><img src="images/-dog-alert--smart-pet-tracking/4.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-dog-alert--smart-pet-tracking/5.jpg" width="200"></td>
-    <td align="center"><img src="images/-dog-alert--smart-pet-tracking/6.jpg" width="200"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/-dog-alert--smart-pet-tracking/1.jpg" width="200">
+  <img src="images/-dog-alert--smart-pet-tracking/2.jpg" width="200">
+  <img src="images/-dog-alert--smart-pet-tracking/3.jpg" width="200">
+  <img src="images/-dog-alert--smart-pet-tracking/4.jpg" width="200">
+  <img src="images/-dog-alert--smart-pet-tracking/5.jpg" width="200">
+  <img src="images/-dog-alert--smart-pet-tracking/6.jpg" width="200">
+</p>
 
 </div>
 
@@ -681,20 +615,14 @@ This repository contains a collection of projects we have built across industrie
 
 ### Screenshots
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="images/-sleep--sound-therapy-app/1.jpg" width="200"></td>
-    <td align="center"><img src="images/-sleep--sound-therapy-app/2.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-sleep--sound-therapy-app/3.jpg" width="200"></td>
-    <td align="center"><img src="images/-sleep--sound-therapy-app/4.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="images/-sleep--sound-therapy-app/5.jpg" width="200"></td>
-    <td align="center"><img src="images/-sleep--sound-therapy-app/6.jpg" width="200"></td>
-  </tr>
-</table>
+<p>
+  <img src="images/-sleep--sound-therapy-app/1.jpg" width="200">
+  <img src="images/-sleep--sound-therapy-app/2.jpg" width="200">
+  <img src="images/-sleep--sound-therapy-app/3.jpg" width="200">
+  <img src="images/-sleep--sound-therapy-app/4.jpg" width="200">
+  <img src="images/-sleep--sound-therapy-app/5.jpg" width="200">
+  <img src="images/-sleep--sound-therapy-app/6.jpg" width="200">
+</p>
 
 </div>
 

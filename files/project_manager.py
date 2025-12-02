@@ -1805,7 +1805,7 @@ class ProjectManagerApp(tk.Tk):
         lines.append('This repository contains a collection of projects we have built across industries including e-commerce, fintech, travel, education, healthcare, IoT, and lifestyle.')
         lines.append('')
         lines.append('<p>')
-        lines.append('  <a href="https://theHexagone.com"><img src="https://img.shields.io/badge/Visit%20Our%20theHexagone.com-000000?style=for-the-badge&logo=safari&logoColor=white"></a>')
+        lines.append('  <a href="https://theHexagone.com"><img src="https://img.shields.io/badge/theHexagone.com-000000?style=for-the-badge&logo=safari&logoColor=white"></a>')
         lines.append('</p>')
         lines.append('')
         lines.append('</div>')
