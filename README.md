@@ -44,13 +44,13 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<img src="images/greeneats/logo.png" alt="🥗 Green Eats – Grocery App logo" height="64">
+<img src="images/-green-eats--grocery-app/logo.png" alt="🥗 Green Eats – Grocery App logo" height="64">
 
 ## 🥗 Green Eats – Grocery App
 
 `Mobile App` `Website`
 
-<img src="images/greeneats/banner.jpg" alt="🥗 Green Eats – Grocery App" width="100%">
+<img src="images/-green-eats--grocery-app/banner.jpg" alt="🥗 Green Eats – Grocery App" width="100%">
 
 **Green Eats is a cross-platform meal delivery ecosystem with apps for Android, iOS, and Web.**
 
@@ -79,16 +79,16 @@ This repository contains a collection of projects we have built across industrie
 
 <table align="center">
   <tr>
-    <td align="center"><img src="images/green-eats/1.jpg" width="200"></td>
-    <td align="center"><img src="images/green-eats/2.jpg" width="200"></td>
+    <td align="center"><img src="images/-green-eats--grocery-app/1.jpg" width="200"></td>
+    <td align="center"><img src="images/-green-eats--grocery-app/2.jpg" width="200"></td>
   </tr>
   <tr>
-    <td align="center"><img src="images/green-eats/3.jpg" width="200"></td>
-    <td align="center"><img src="images/green-eats/4.jpg" width="200"></td>
+    <td align="center"><img src="images/-green-eats--grocery-app/3.jpg" width="200"></td>
+    <td align="center"><img src="images/-green-eats--grocery-app/4.jpg" width="200"></td>
   </tr>
   <tr>
-    <td align="center"><img src="images/green-eats/5.jpg" width="200"></td>
-    <td align="center"><img src="images/green-eats/6.jpg" width="200"></td>
+    <td align="center"><img src="images/-green-eats--grocery-app/5.jpg" width="200"></td>
+    <td align="center"><img src="images/-green-eats--grocery-app/6.jpg" width="200"></td>
   </tr>
 </table>
 
@@ -335,14 +335,20 @@ This repository contains a collection of projects we have built across industrie
 
 ### Screenshots
 
-<p>
-  <img src="images/-mindful-life--ai-chatbot-app/1.jpg" width="200">
-  <img src="images/-mindful-life--ai-chatbot-app/2.jpg" width="200">
-  <img src="images/-mindful-life--ai-chatbot-app/3.jpg" width="200">
-  <img src="images/-mindful-life--ai-chatbot-app/4.jpg" width="200">
-  <img src="images/-mindful-life--ai-chatbot-app/5.jpg" width="200">
-  <img src="images/-mindful-life--ai-chatbot-app/6.jpg" width="200">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="images/-mindful-life--ai-chatbot-app/1.jpg" width="200"></td>
+    <td align="center"><img src="images/-mindful-life--ai-chatbot-app/2.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/-mindful-life--ai-chatbot-app/3.jpg" width="200"></td>
+    <td align="center"><img src="images/-mindful-life--ai-chatbot-app/4.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/-mindful-life--ai-chatbot-app/5.jpg" width="200"></td>
+    <td align="center"><img src="images/-mindful-life--ai-chatbot-app/6.jpg" width="200"></td>
+  </tr>
+</table>
 
 </div>
 
@@ -482,14 +488,20 @@ This repository contains a collection of projects we have built across industrie
 
 ### Screenshots
 
-<p>
-  <img src="images/-your-bridge-school--learning-app/1.jpg" width="200">
-  <img src="images/-your-bridge-school--learning-app/2.jpg" width="200">
-  <img src="images/-your-bridge-school--learning-app/3.jpg" width="200">
-  <img src="images/-your-bridge-school--learning-app/4.jpg" width="200">
-  <img src="images/-your-bridge-school--learning-app/5.jpg" width="200">
-  <img src="images/-your-bridge-school--learning-app/6.jpg" width="200">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="images/-your-bridge-school--learning-app/1.jpg" width="200"></td>
+    <td align="center"><img src="images/-your-bridge-school--learning-app/2.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/-your-bridge-school--learning-app/3.jpg" width="200"></td>
+    <td align="center"><img src="images/-your-bridge-school--learning-app/4.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/-your-bridge-school--learning-app/5.jpg" width="200"></td>
+    <td align="center"><img src="images/-your-bridge-school--learning-app/6.jpg" width="200"></td>
+  </tr>
+</table>
 
 </div>
 
@@ -546,6 +558,8 @@ This repository contains a collection of projects we have built across industrie
 
 <hr>
 
+<div style="border: 1px solid #e5e7eb; border-radius: 12px; padding: 24px; margin: 16px 0;">
+
 <div align="center">
 
 ## 🏗 Ez Build – Online Marketplace MVP
@@ -589,6 +603,7 @@ This repository contains a collection of projects we have built across industrie
 
 </div>
 
+</div>
 
 <hr>
 
@@ -689,6 +704,6 @@ This repository contains a collection of projects we have built across industrie
 
 <div align="center">
 
-<sub>Last updated: December 02, 2025</sub>
+<sub>Last updated: December 03, 2025</sub>
 
 </div>
