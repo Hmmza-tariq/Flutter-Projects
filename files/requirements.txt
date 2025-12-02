@@ -1,0 +1,8 @@
+# Hexagone Project Manager Dependencies
+# No external dependencies required - uses only Python standard library
+# 
+# Python 3.8+ is required
+# tkinter is included with Python on Windows
+# 
+# To run:
+#   python project_manager.py
